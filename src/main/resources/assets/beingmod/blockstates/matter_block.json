@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "beingmod:block/matter_block" }
+	}
+}

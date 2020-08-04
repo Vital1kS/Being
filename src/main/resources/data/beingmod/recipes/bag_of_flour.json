@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "beingmod:bag"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "beingmod:mortar"
+    },
+    {
+      "item": "beingmod:pestle"
+    }
+  ],
+  "result": {
+    "item": "beingmod:bag_of_flour"
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"item.beingmod.matter": "Matter",
+	"item.beingmod.antimatter": "Antimatter",
+	"item.beingmod.ingot_of_antimatter": "Antimatter Ingot",
+	"item.beingmod.ingot_of_matter": "Matter Ingot",
+	"item.beingmod.singularity": "Singularity",
+	"item.beingmod.singularity_stick": "Singularity Stick",
+	"item.beingmod.mortar": "Mortar",
+	"item.beingmod.pestle": "Pestle",
+	"item.beingmod.horseradish": "Horseradish",
+	"item.beingmod.bag": "Bag",
+	"item.beingmod.bag_of_flour": "Bag Of Flour",
+	"item.beingmod.fabric": "Fabric",
+	"item.beingmod.dried_cattail": "Dried Cattail",
+	"item.beingmod.leaf": "Leaf",
+	"item.beingmod.dough": "Dough",
+	
+	
+	"item.beingmod.antimatter_pickaxe": "Antimatter Pickaxe",
+	"item.beingmod.antimatter_shovel": "Antimatter Shovel",
+	"item.beingmod.antimatter_sword": "Antimatter Sword",
+	"item.beingmod.antimatter_hoe": "Antimatter Hoe",
+	"item.beingmod.antimatter_axe": "Antimatter Axe",
+	
+	"block.beingmod.matter_block": "Matter Block",
+	"block.beingmod.cattail": "Cattail",
+	"block.beingmod.horseradish_seeds": "Horseradish Seeds",
+	
+	"itemGroup.beingmodtab": "Being"
+}

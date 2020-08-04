@@ -1,0 +1,45 @@
+modLoader="javafml" 
+
+loaderVersion="[31,)"
+
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+
+modId="beingmod" 
+
+version="0.0.1" 
+
+displayName="Being" 
+
+updateJSONURL="http://myurl.me/"
+
+displayURL="http://example.com/"
+
+logoFile="examplemod.png"
+
+credits="Just single one people - Vital1kS"
+
+authors="Vital1kS"
+
+description='''
+This mod about being of our world and life.
+'''
+[[dependencies.beingmod]]
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.beingmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
